@@ -1,0 +1,19 @@
+.bg-mycolor {
+    background-color: #303030;
+}
+
+.card {
+    background-color: #272525;
+}
+
+.form-control {
+    background-color: #F2F1F1;
+    border: none;
+    font-size: 20px;
+    color: #303030;
+}
+
+.btn {
+    background-color: #FDC800;
+    border: 1px solid #FDC800;
+}
